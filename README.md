@@ -5,4 +5,5 @@ A running list of my terminal setups — Windows Terminal themes, Starship promp
 > Clean. Minimal. Eye-friendly.
 
 ## 📸 Preview  
-![Windows Terminal Color Scheme - Logphile ](/screenshots/logphile-preview.png)
+![Windows Terminal Color Scheme - Logphile Preview](https://raw.githubusercontent.com/logphile/terminal-customizations/main/screenshots/logphile-preview.png)
+
